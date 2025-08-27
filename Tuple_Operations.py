@@ -1,0 +1,5 @@
+tp = (1,2,8,4,5)
+print(tp.index(4))
+print(tp.count(4))
+print(tp[::])
+print(tp[2:-4:-1])
