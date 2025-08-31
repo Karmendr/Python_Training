@@ -31,4 +31,4 @@ while n==1:
     print(f"{a} / {b} = {c}")
   else:
     print("Please Enter Valid Input")
-  n = int(input("if you want to exit from code then type 0 \nif you want to continou the code then type 1\n"))
+  n = int(input("if you want to exit from code then Enter 0 \nif you want to continou the code then Enter 1\n"))
